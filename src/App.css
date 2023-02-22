@@ -12,6 +12,8 @@
 p {
     margin: 0px;
     margin-top: 2vmin;
+    margin-left: 5vmin;
+    margin-right: 5vmin;
 }
 
 .App-header {
