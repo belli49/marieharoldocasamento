@@ -25,6 +25,10 @@ function App() {
         <p>
             Nosso dia não seria tão especial sem vocês.
         </p>
+        <p/>
+        <p>
+            Mari & Haroldo
+        </p>
       </header>
     </div>
   );
