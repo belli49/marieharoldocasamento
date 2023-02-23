@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src={divisor} className="Divisor" />
+        <img src={divisor} className="Divisor" alt="divider" />
         <p className="Japanese-text">
             本日はお忙しいところお越しいただき誠にありがとうございました。
         </p>
@@ -28,7 +28,7 @@ function App() {
             NOSSO DIA NÃO SERIA TÃO ESPECIAL SEM VOCÊS.
         </p>
         <p/>
-        <img src={divisor} className="Divisor" />
+        <img src={divisor} className="Divisor" alt="divider" />
         <p className="Portuguese-text">
             MARI & HAROLDO
         </p>
