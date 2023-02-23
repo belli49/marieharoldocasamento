@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
 .App {
   text-align: center;
 }
@@ -18,14 +20,29 @@ p {
 
 .App-header {
   background-color: #f1c2d1;
+  background-image: url("./background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 170vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  font-family: はれのそら明朝;
   color: black;
+}
+
+.Japanese-text {
+    font-family: はれのそら明朝;
+}
+
+.Portuguese-text {
+    font-family: 'Playfair Display', serif;
+}
+
+.Divisor {
+    height: 6vh;
 }
 
 @font-face
