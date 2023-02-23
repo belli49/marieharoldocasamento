@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <img src={divisor} className="Divisor" alt="divider" />
+
         <p className="Japanese-text">
             本日はお忙しいところお越しいただき誠にありがとうございました。
         </p>
@@ -20,14 +21,17 @@ function App() {
         <p className="Japanese-text">
             これからも私たちをどうぞ宜しくお願い致します。
         </p>
+
+
         <p/>
         <p className="Portuguese-text">
-            AGRADECEMOS POR VIVER ESSE MOMENTO COM A GENTE.
+            AGRADECEMOS POR COMPARTILHAR CONOSTO A ALEGRIA DESTA DATA.
         </p>
         <p className="Portuguese-text">
             NOSSO DIA NÃO SERIA TÃO ESPECIAL SEM VOCÊS.
         </p>
         <p/>
+
         <img src={divisor} className="Divisor" alt="divider" />
         <p className="Portuguese-text">
             MARI & HAROLDO
